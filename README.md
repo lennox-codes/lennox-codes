@@ -16,7 +16,7 @@ I am a software engineer based in Waterloo, ON with a keen interest in UX/UI Des
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="50%">
+<table width="100%"><tr><td valign="top" width="50%">
 
 ### Frontend
 
