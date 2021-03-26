@@ -1,5 +1,5 @@
 <div align="center">
-<img src="images/intro.svg" align="center" style="width: 100%" />
+<img src="ihttps://github.com/lennox-codes/lennox-codes/blob/main/Images/intro.png?raw=true" align="center" style="width: 100%" />
 </div>
 
 <br>
