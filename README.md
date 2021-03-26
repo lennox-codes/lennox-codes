@@ -10,12 +10,11 @@ I am a software engineer based in Waterloo, ON with a keen interest in UX/UI Des
 
 ## My Skill Set
 
-<table><tr><td width="50%">
+<table><tr><td valign="top" width="50%">
 
-<div style="display: flex; justify-content: space-between;">
+### Frontend
 
-<div align="center" style="background-color: #fff; width: 49.5%">
-<h2>Frontend<h2>
+<div align="center" style="background-color: #fff">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -25,8 +24,11 @@ I am a software engineer based in Waterloo, ON with a keen interest in UX/UI Des
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
 
-<div align="center" style="background-color: #fff; width: 49.5%">
-<h2>Backend<h2>
+</td><td valign="top" width="50%">
+
+### Backend
+
+<div align="center" style="background: #fff">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
@@ -35,7 +37,7 @@ I am a software engineer based in Waterloo, ON with a keen interest in UX/UI Des
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </div>
 
-</div>
+</td></tr></table>
 
 <br/>
 
