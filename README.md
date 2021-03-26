@@ -65,4 +65,12 @@ I am a software engineer based in Waterloo, ON with a keen interest in UX/UI Des
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lennox-codes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<table width="100%"><tr><td valign="top" width="50%">
+
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=lennox-codes&show_icons=true&locale=en" alt="lennox-codes" /></div>
+
+</td><td valign="top" width="50%">
+
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lennox-codes&" alt="lennox-codes" /></div>
+
+</td></tr></table>
