@@ -10,7 +10,7 @@ I am a software engineer based in Waterloo, ON with a keen interest in UX/UI Des
 
 - 🔭 I’m currently working on a personal project
 
-- 🌱 I’m currently learning Expressjs, Nodejs and Reactjs
+- 🌱 I’m currently learning Nodejs, Expressjs and MongoDB
 
 - ⚡ Fun fact: I don't have a favorite color. I have two: blue and grey
 
