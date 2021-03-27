@@ -47,7 +47,7 @@ I am a software engineer based in Waterloo, ON with a keen interest in UX/UI Des
 
 <br/>
 
-## Connect with me
+## Connect With Me
 
 <div align="center">
 <a href="https://twitter.com/@KnoxWest10" target="_blank">
