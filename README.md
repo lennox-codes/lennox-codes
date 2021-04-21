@@ -12,7 +12,7 @@ I am a software engineer based in Waterloo, ON with a keen interest in UX/UI Des
 
 - 🌱 I’m currently learning Nodejs, Expressjs and MongoDB
 
-- ⚡ Fun fact: I don't have a favorite color, I have two: blue and grey
+- ⚡ Fun fact: My favorite colors are blue and grey.
 
 ## My Skill Set
 
