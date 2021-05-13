@@ -18,7 +18,7 @@ I am a software developer based in Waterloo, ON with a keen interest in UX/UI De
 
 <table width="100%"><tr><td valign="top" width="50%" style="background-color: #fff">
 
-### Frontend
+### Front-end
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -32,7 +32,7 @@ I am a software developer based in Waterloo, ON with a keen interest in UX/UI De
 
 </td><td valign="top" width="50%">
 
-### Backend
+### Back-end
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
