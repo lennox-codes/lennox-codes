@@ -10,7 +10,7 @@ I am a software developer based in Waterloo, ON with a keen interest in UX/UI De
 
 - 🔭 I’m currently working on a personal project
 
-- 🌱 I’m currently learning Nodejs, Expressjs and MongoDB
+- 🌱 I’m currently learning React
 
 - ⚡ Fun fact: My favorite colors are blue and grey.
 
