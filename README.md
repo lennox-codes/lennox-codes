@@ -51,7 +51,7 @@ I am a software developer based in Waterloo, ON with a keen interest in UX/UI De
 ## Connect With Me
 
 <div align="center">
-<a href="https://twitter.com/@KnoxWest10" target="_blank">
+<a href="https://twitter.com/@lennoxgilbert" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/lennox-codes" target="_blank">
