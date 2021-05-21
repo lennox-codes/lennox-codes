@@ -5,7 +5,7 @@
 <br>
 
 <p>
-I am a software developer based in Waterloo, ON with a keen interest in UX/UI Design. I have a proven track record of creating and implementing successful frontend and backend web applications using industry-standard practices. As a developer, I aspire to use my creativity, curiousity to learn, and expertise to help bring innovative ideas to fruition and demonstrate my commitment to developing highly sophisticated software solutions for your company.
+I am a software developer based in Waterloo, ON with a keen interest in UX/UI Design. I have a proven track record of creating and implementing successful frontend and backend web applications using industry-standard practices. As a developer, I aspire to use my creativity, eagerness to learn, and expertise to help bring innovative ideas to fruition and demonstrate my commitment to developing highly sophisticated software solutions for your company.
 </p>
 
 - 🔭 I’m currently working on a personal project
