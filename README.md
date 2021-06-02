@@ -8,7 +8,7 @@
 I am a software developer based in Waterloo, ON with a keen interest in UX/UI Design. I have a proven track record of creating and implementing successful frontend and backend web applications using industry-standard practices. As a developer, I aspire to use my creativity, eagerness to learn, and expertise to help bring innovative ideas to fruition and demonstrate my commitment to developing highly sophisticated software solutions for your company.
 </p>
 
-- 🔭 I’m currently working on [QuickCards](https://github.com/lennox-codes/Wishes.me) (a digital card sharing application)
+- 🔭 I’m currently working on [QuickCards](https://github.com/lennox-codes/Wishes.me) (a web application to share greeting cards)
 
 - 🌱 I’m currently learning Reactjs
 
