@@ -10,7 +10,7 @@ I am a software developer based in Waterloo, ON with a keen interest in UX/UI De
 
 - 🔭 I’m currently working on [QuickCards](https://github.com/lennox-codes/QuickCards) (a web application to share greeting cards)
 
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Reactjs and I am loving it
 
 - ⚡ Fun fact: My favorite colors are blue and grey.
 
