@@ -10,7 +10,7 @@ I am a software developer based in Waterloo, ON with a keen interest in UX/UI De
 
 - 🔭 I’m currently working on [QuickCards](https://github.com/lennox-codes/QuickCards) (a web application to share greeting cards)
 
-- 🌱 I’m currently learning Reactjs and I am loving it
+- 🌱 I’m currently learning how to speak Japanese
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
