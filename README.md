@@ -12,6 +12,8 @@ I am a software developer based in Waterloo, ON with a keen interest in UX/UI De
 
 - 🌱 I’m currently learning Reactjs and I am loving it
 
+- ❓ Ask me about anything related to MERN stack and related technologies
+
 - ⚡ Fun fact: My favorite colors are blue and grey.
 
 ## My Skill Set
