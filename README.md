@@ -10,7 +10,7 @@ I am a software developer based in Waterloo, ON. I have a proven track record of
 
 - 🔭 I’m currently working on [QuickCards](https://github.com/lennox-codes/QuickCards) (a web application to share greeting cards)
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- ❓  Ask me about anything related to MERN stack and related technologies
 
 - ⚡ Fun fact: My favorite colors are blue and grey.
 
