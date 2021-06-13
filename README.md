@@ -14,6 +14,9 @@ I am a software developer based in Waterloo, ON. I have a proven track record of
 
 - ⚡ Fun fact: My favorite colors are blue and grey.
 
+📕 Favorite Quote: 
+> Nothing in the world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent."
+
 ## My Skill Set
 
 <table width="100%"><tr><td valign="top" width="50%" style="background-color: #fff">
