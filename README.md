@@ -77,7 +77,7 @@ I am a software developer based in Waterloo, ON. I have a proven track record of
 </td> -->
   <td valign="top" width="50%">
 
-<div><img align="center"  alt="lennox-codes" /></div>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lennox-codes&" alt="lennox-codes" /></div>
   
 
 </td></tr></table>
