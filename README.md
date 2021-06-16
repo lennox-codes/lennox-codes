@@ -8,7 +8,7 @@
 I am a software developer based in Waterloo, ON. I have a proven track record of creating and implementing successful frontend and backend web applications using industry-standard practices. As a developer, I aspire to use my creativity, eagerness to learn, and expertise to help bring innovative ideas to fruition and demonstrate my commitment to developing highly sophisticated software solutions for your company.
 </p>
 
-- 🔭 I’m currently working on [QuickCards](https://github.com/lennox-codes/QuickCards) (a web application to share greeting cards)
+- 🔭 I’m currently working on [QuickCards](https://github.com/lennox-codes/QuickCards) (a web application to share greeting cards with your loved ones)
 
 - ❓  Ask me about anything related to MERN stack and related technologies
 
