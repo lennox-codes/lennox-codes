@@ -75,7 +75,7 @@ I am a software developer based in Waterloo, ON. I have a proven track record of
 <table width="100%"><tr>
 <!--   <td valign="top" width="50%">
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=lennox-codes&show_icons=true&locale=en" alt="lennox-codes" /></div>
+<div> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lennox-codes&show_icons=true&locale=en" alt="lennox-codes" /> </div>
 
 </td> -->
   <td valign="top" width="50%">
