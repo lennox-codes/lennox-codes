@@ -72,13 +72,13 @@ I am a software developer based in Waterloo, ON. I have a proven track record of
 
 ## Github Stats
 
-<table width="100%"><tr>
+<!-- <table width="100%"><tr>
 <!--   <td valign="top" width="50%">
 
 <div> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lennox-codes&show_icons=true&locale=en" alt="lennox-codes" /> </div>
 
 </td> -->
-  <td valign="top" width="50%">
+  <td valign="top" width="50%"> -->
 
 <div><img align="center" src='http://github-readme-streak-stats.herokuapp.com?user=lennox-codes&theme=omni&hide_border=true'"" alt="lennox-codes" /></div>
   
