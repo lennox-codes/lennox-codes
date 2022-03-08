@@ -5,14 +5,12 @@
 <br>
 
 <p>
-I am a software developer based in Waterloo, ON. I have a proven track record of creating and implementing successful frontend and backend web applications using industry-standard practices. As a developer, I aspire to use my creativity, eagerness to learn, and expertise to help bring innovative ideas to fruition and demonstrate my commitment to developing highly sophisticated software solutions for your company.
+I find satisfaction in using my creativity and affinity for problem-solving to help bring innovative ideas to fruition, demonstrating my commitment to delivering highly sophisticated / well-thought-out solutions. 
 </p>
 
-- 🔭 I’m currently working on [QuickCards](https://github.com/lennox-codes/QuickCards) (a web application to share greeting cards with your loved ones)
+- ❓ Ask me about anything related to MERN stack and related technologies
 
-- ❓  Ask me about anything related to MERN stack and related technologies
-
-- ⚡ Fun fact: My favorite colors are blue and grey.
+- ⚡ Fun fact: I once went on a 36-hour marathon binge-watching HxH.
 
 📕 Favorite Quote: 
 > Nothing in the world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Persistence and determination alone are omnipotent."
@@ -21,19 +19,6 @@ I am a software developer based in Waterloo, ON. I have a proven track record of
 
 <table width="100%"><tr><td valign="top" width="50%" style="background-color: #fff">
 
-### Front-end
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-</div>
-
-</td><td valign="top" width="50%">
 
 ### Back-end
 
@@ -49,6 +34,19 @@ I am a software developer based in Waterloo, ON. I have a proven track record of
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
 
+</td><td valign="top" width="50%">
+ 
+ ### Front-end
+  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+</div>
   
 </div>
 
