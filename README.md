@@ -73,7 +73,7 @@ I find satisfaction in using my creativity and affinity for problem-solving to h
 
 <br/>
 
-## Github Stats
+<!--## Github Stats
 
 <!--   <td valign="top" width="50%"> 
 
