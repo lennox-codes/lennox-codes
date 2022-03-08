@@ -5,7 +5,7 @@
 <br>
 
 <p>
-I find satisfaction in using my creativity and affinity for problem-solving to help bring innovative ideas to fruition, demonstrating my commitment to delivering highly sophisticated / well-thought-out solutions. 
+I have a proven track record of creating and implementing successful software, finding satisfaction in using my creativity and affinity for problem-solving to help bring innovative ideas to fruition, demonstrating my commitment to delivering highly sophisticated / well-thought-out solutions. 
 </p>
 
 - ❓ Ask me about anything related to MERN stack and related technologies
