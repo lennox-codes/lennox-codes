@@ -10,7 +10,7 @@ I find satisfaction in using my creativity and affinity for problem-solving to h
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
-- ⚡ Fun fact: I once went on a 36-hour marathon binge-watching HxH.
+- ⚡ Fun fact: I once went on a 36-hour marathon binge-watching HxH (the greatest anime ever 😤 )
 
 📕 Favorite Quote: 
 > Nothing in the world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Persistence and determination alone are omnipotent."
