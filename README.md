@@ -10,7 +10,7 @@ I have a proven track record of creating and implementing successful software, f
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
-- ⚡ Fun fact: I once went on a 36-hour marathon binge-watching HxH ( the greatest anime ever 😤 )
+- ⚡ Fun fact: I once went on a 36-hour HxH ( arguably the greatest shonen anime ever 😤 ) binge-watching marathon.
 
 📕 Favorite Quote: 
 > Nothing in the world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Persistence and determination alone are omnipotent."
