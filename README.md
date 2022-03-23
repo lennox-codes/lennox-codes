@@ -8,8 +8,6 @@
 I have a proven track record of creating and implementing successful software, finding satisfaction in using my creativity and affinity for problem-solving to help bring innovative ideas to fruition.
 </p>
 
-- ❓ Ask me about anything related to MERN stack and related technologies
-
 - ⚡ Fun fact: I once went on a 36-hour HxH binge-watching marathon. It's arguably the greatest shonen anime ever 😤 
 
 📕 Favorite Quote: 
