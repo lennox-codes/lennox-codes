@@ -11,7 +11,7 @@ I have a proven track record of creating and implementing successful software, f
 - ⚡ Fun fact: I once went on a 36-hour HxH binge-watching marathon. It's arguably the greatest shonen anime ever 😤 
 
 📕 Favorite Quote: 
-> Nothing in the world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Persistence and determination alone are omnipotent."
+> Nothing in the world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Persistence and determination alone are omnipotent.
 
 ## My Skill Set
 
